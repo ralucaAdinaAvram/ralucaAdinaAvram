@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ralucaAdinaAvram
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning JS , PHP, Bootsrap
+- 🌱 I’m currently learning JS , PHP, Bootstrap
 - 💞️ I’m looking to collaborate on any project, because that's how keen I am on programming
 - 📫 How to reach me -ralucaadinaavram@yahoo.com
 
