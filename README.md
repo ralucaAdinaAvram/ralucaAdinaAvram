@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ralucaAdinaAvram
 - 👀 I’m interested in programming 
-- 🌱 My portfolio website cuppasoftware.com
+- 🌱 cuppasoftware.com  - my portfolio website
 - 💞️ I’m looking to collaborate on any project, using HTML, CSS, JavaScript, SQL or PHP but not limited to them necessary
 - 📫 How to reach me -ralucaadinaavram@yahoo.com
 
